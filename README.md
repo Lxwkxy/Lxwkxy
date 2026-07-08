@@ -1,17 +1,19 @@
 # Hi, I'm Phattarapol 👋
 ### Applied Computer Science Student at King Mongkut's University of Technology Thonburi
 
-Exploring Data Science / Machine Learning.
+Focused on Competitive Programming, Data Structures, and Algorithms.  
+Currently exploring Graph and Tree algorithms.
 
 ---
 
 ## 🛠️ Skills
 
 ### 💻 Languages
-* C, C++, Python
+* C++, C
 
-### 📊 Data Science & Machine Learning
-* NumPy, Pandas, Intro to ML
+### 🧠 Problem Solving & Algorithms
+* Data Structures & Algorithms (DSA)
+* LeetCode / Algorithmic Problem Solving
 
 ---
 
