@@ -2,25 +2,19 @@
 
 ### Applied Computer Science Student at King Mongkut's University of Technology Thonburi
 
-Interested in web development and problem solving.
+Interested in software development, problem solving, and learning the fundamentals of artificial intelligence.
 
-Currently building [plearn-path](https://github.com/Lxwkxy/plearn-path), a project where I am learning how to create practical web applications—from designing interfaces to implementing application logic.
+I enjoy exploring programming concepts and improving my coding skills.
 
 ---
 
 ## 🛠️ Skills
 
-### 🌐 Web Development
-
-- HTML
-- CSS
-- JavaScript
-
 ### 💻 Programming Languages
 
 - C++
 - C
-- JavaScript
+- Python
 
 ### 🧠 Problem Solving
 
@@ -29,27 +23,13 @@ Currently building [plearn-path](https://github.com/Lxwkxy/plearn-path), a proje
 
 ---
 
-## 🚀 Featured Project
-
-### [plearn-path](https://github.com/Lxwkxy/plearn-path)
-
-A web development project that I am building to gain hands-on experience creating useful and user-friendly web applications.
-
-**What I am learning through this project:**
-
-- Designing responsive user interfaces
-- Structuring web pages with HTML and CSS
-- Adding interactivity with JavaScript
-- Organizing code for a real-world web project
-
----
-
 ## 📚 Currently Learning
 
-- Modern web development
-- Responsive web design
-- JavaScript and web application development
 - Data Structures and Algorithms
+- Mathematical Foundations for AI and Machine Learning
+  - Linear Algebra
+  - Calculus
+- Numerical Computing with NumPy
 
 ---
 
