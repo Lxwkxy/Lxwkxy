@@ -2,7 +2,7 @@
 
 ### Applied Computer Science Student at King Mongkut's University of Technology Thonburi
 
-Interested in software development, problem solving, and learning the fundamentals of artificial intelligence.
+Interested in data science, machine learning, problem solving, and the mathematical foundations of AI.
 
 I enjoy exploring programming concepts and improving my coding skills.
 
@@ -25,11 +25,19 @@ I enjoy exploring programming concepts and improving my coding skills.
 
 ## 📚 Currently Learning
 
-- Data Structures and Algorithms
-- Mathematical Foundations for AI and Machine Learning
+### Mathematical Foundations for AI and Machine Learning
+
   - Linear Algebra
   - Calculus
-- Numerical Computing with NumPy
+  - Numerical Computing with NumPy
+
+### Machine Learning Fundamentals
+
+- Data Preprocessing
+- Feature Engineering
+- Model Training and Evaluation
+- Cross-Validation
+- Fairness and Responsible AI
 
 ---
 
